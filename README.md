@@ -1,2 +1,2 @@
 @shacharmaor
-Highscool CS students, this is a page for my projects (both independent and school-related)
+Highscool CS student, this is a page for my projects (both independent and school-related)
